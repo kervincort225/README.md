@@ -20,7 +20,7 @@ Ingeniero en Software · Desarrollador en <strong>Falabella Tecnología</strong>
 ### 📫 Contacto
 - 📎 [LinkedIn](https://www.linkedin.com/in/kervincort225/)  
 - 📧 kervincort225@gmail.com
-- 📎 www.vyntra.cl 
+- 📎 [www.vyntra.cl ](https://vyntra.cl/)
 
 ---
 
